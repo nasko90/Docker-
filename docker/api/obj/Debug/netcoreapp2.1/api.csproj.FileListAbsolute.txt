@@ -1,0 +1,6 @@
+C:\Users\Nadia\Desktop\angular\docker\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
+C:\Users\Nadia\Desktop\angular\docker\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Desktop\angular\docker\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+C:\Users\Nadia\Desktop\angular\docker\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+C:\Users\Nadia\Desktop\angular\docker\api\obj\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\Users\Nadia\Desktop\angular\docker\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs

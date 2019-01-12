@@ -1,0 +1,18 @@
+version: '3.7'
+ 
+services:
+  app:
+    build:
+      context:  ./docker
+      dockerfile: Dockerfile
+    expose:
+      - "5000"
+ 
+  proxy:
+    build:
+      context:  ./nginx
+      dockerfile: Dockerfile
+    ports:
+      - "2500:2500"
+    links:
+      - app
